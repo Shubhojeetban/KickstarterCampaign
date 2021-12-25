@@ -1,0 +1,4 @@
+Semantic UI React -> npm install --save semantic-ui-react
+                     npm install --save semantic-ui-css
+
+Nodes Routes -> npm install next-routes --legacy-peer-deps
